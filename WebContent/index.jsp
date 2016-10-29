@@ -5,6 +5,6 @@ pageEncoding="ISO-8859-1"%>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
-</head><body><a href="HelloWorld">click Here-goPaddle Bluemeric ANTAPP DEMOapp</a>
+</head><body><a href="HelloWorld">click Here-goPaddle Bluemeric ANTAPP DEMOnew</a>
 </body>
 </html>
